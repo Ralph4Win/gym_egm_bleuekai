@@ -1,10 +1,15 @@
 # 📍 Standortanalyse für Fitnesscenter in der Stadt Zürich
 
 **Kurs:** Einsatz von Geodaten im Marketing (WPM-EGM.XX) – ZHAW School of Management and Law, FS2026  
+
 **Autor:** Kai Bleuel
+
 **Gruppe:** 12
-**Modulleitung:** Dr. Mario Gellrich  
-**Abgabe:** 27. Mai 2026  
+
+**Modulleitung:** Dr. Mario Gellrich
+
+**Abgabe:** 27. Mai 2026
+
 
 ---
 
