@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geocoded_addresses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2056" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "Hardstrasse 235, Zürich", "address_full": "235, Hardstrasse, Escher Wyss, Industriequartier, Zürich, Bezirk Zürich, Zürich, 8005, Schweiz/Suisse/Svizzera/Svizra", "lat": 47.3876675, "lon": 8.5190524 }, "geometry": { "type": "Point", "coordinates": [ 2681577.180632777512074, 1249098.875014113029465 ] } },
+{ "type": "Feature", "properties": { "address": "Sihlquai 268, Zürich", "address_full": "268, Sihlquai, Swissmill, Gewerbeschule, Industriequartier, Zürich, Bezirk Zürich, Zürich, 8005, Schweiz/Suisse/Svizzera/Svizra", "lat": 47.3886815, "lon": 8.5284976 }, "geometry": { "type": "Point", "coordinates": [ 2682288.724752244539559, 1249221.465029530460015 ] } },
+{ "type": "Feature", "properties": { "address": "Badenerstrasse 380, Zürich", "address_full": "Parkhaus Albisriederplatz, 380, Badenerstrasse, Hard, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra", "lat": 47.3794251, "lon": 8.5081998 }, "geometry": { "type": "Point", "coordinates": [ 2680770.301070239860564, 1248171.325279096607119 ] } },
+{ "type": "Feature", "properties": { "address": "Lagerstrasse 33, Zürich", "address_full": "33, Lagerstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra", "lat": 47.3774705, "lon": 8.5329104 }, "geometry": { "type": "Point", "coordinates": [ 2682639.264394127298146, 1247979.757497636135668 ] } },
+{ "type": "Feature", "properties": { "address": "Weinbergstrasse 70, Zürich", "address_full": "70, Weinbergstrasse, Unterstrass, Kreis 6, Zürich, Bezirk Zürich, Zürich, 8006, Schweiz/Suisse/Svizzera/Svizra", "lat": 47.3830268, "lon": 8.5437159 }, "geometry": { "type": "Point", "coordinates": [ 2683446.531169234775007, 1248608.893826312152669 ] } }
+]
+}

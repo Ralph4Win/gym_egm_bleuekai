@@ -1,0 +1,48 @@
+# =============================================================================
+# .gitignore – Standortanalyse Fitnesscenter Zürich
+# ZHAW FS2026 | Einsatz von Geodaten im Marketing
+# =============================================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtuelle Umgebung
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/cache/
+
+# Grosse Datendateien – werden beim ersten Notebook-Durchlauf automatisch geladen
+data/processed/zuerich_walk_network.graphml
+data/processed/statistical_quarters_v2.geojson
+data/raw/
+
+# Interaktive Karte (4.8 MB – zu gross fuer GitHub ohne LFS)
+outputs/maps/interactive_map.html
+
+# QGIS Sperrdateien
+*.qgz~
+*.qlr~
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/settings.json
+.idea/
+
+# Build-Skripte in notebooks/ werden nicht versioniert (liegen in scripts/)
+notebooks/build_notebook.py
+notebooks/generate_notebook.py
+notebooks/cache/

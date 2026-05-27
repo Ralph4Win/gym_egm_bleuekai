@@ -1,0 +1,41 @@
+# ============================================================
+# Standortanalyse Fitnesscenter Zürich
+# ZHAW FS2026 – Einsatz von Geodaten im Marketing
+# ============================================================
+
+# Core geospatial
+geopandas>=0.14.0
+shapely>=2.0.0
+pyproj>=3.6.0
+fiona>=1.9.0
+
+# OpenStreetMap data
+osmnx>=1.9.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+contextily>=1.4.0
+folium>=0.15.0
+mapclassify>=2.6.0
+
+# Spatial statistics (Moran's I, LISA)
+libpysal>=4.9.0
+esda>=2.5.0
+
+# Jupyter
+jupyterlab>=4.0.0
+nbformat>=5.9.0
+ipykernel>=6.25.0
+
+# Network analysis (isochrones)
+networkx>=3.1.0
+
+# HTTP requests (APIs)
+requests>=2.31.0
+
+# Geocoding (Nominatim via Nominatim)
+geopy>=2.4.0
